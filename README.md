@@ -52,14 +52,7 @@ yarn start
 > 👩‍💻 Rerun `yarn deploy` whenever you want to deploy new contracts to the frontend. If you haven't made any contract changes, you can run `yarn deploy --reset` for a completely fresh deploy.
 
 
-📜 Sepolia link: https://sepolia.etherscan.io/address/0x57cAbc01d13110c828eE288F14F1F06b64000F68
+>📜 Sepolia link: https://sepolia.etherscan.io/address/0x57cAbc01d13110c828eE288F14F1F06b64000F68
 🔗 Versel link: https://dex-4bme7m80h-refreshmylifes-projects.vercel.app/
 
 
-
-## Contributing to Scaffold-ETH 2
-
-We welcome contributions to Scaffold-ETH 2!
-
-Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-ETH 2.
->>>>>>> 55a8658 (Initial commit with 🏗️ Scaffold-ETH 2 @ 1.0.2)
